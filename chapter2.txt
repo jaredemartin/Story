@@ -1,3 +1,4 @@
 Chapter 2
 
 This is the first sentence of the Chapter.
+This is the second sentence of the Chapter.
